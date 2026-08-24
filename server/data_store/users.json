@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "id_1787582813592_bp7mry9q7",
+    "createdAt": "2026-08-24T14:46:53.592Z",
+    "updatedAt": "2026-08-24T14:46:53.592Z",
+    "name": "AERON Admin",
+    "email": "admin@aeron.lab",
+    "password": "$2a$10$HQyWqSGUxwZmpP4oLzMLq.711Eqo.LBmmz.TNagiy559q94FC8PWW",
+    "role": "admin"
+  }
+]

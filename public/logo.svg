@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="28" fill="#000000" />
+  <!-- Nike Swoosh curve -->
+  <path d="M 20 52 C 38 64, 52 70, 82 28 C 65 48, 48 56, 32 46 Z" fill="#ccff00" />
+  <!-- SNEAKX dot -->
+  <circle cx="82" cy="28" r="4" fill="#00f0ff" />
+</svg>

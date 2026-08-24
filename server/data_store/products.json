@@ -1,0 +1,218 @@
+[
+  {
+    "_id": "id_1787582813535_77tzv941s",
+    "createdAt": "2026-08-24T14:46:53.535Z",
+    "updatedAt": "2026-08-24T14:46:53.535Z",
+    "id": "aeron-x1",
+    "name": "AERON X1",
+    "subtitle": "THE NEXT STEP FORWARD",
+    "category": "Running & Performance",
+    "gender": "Men",
+    "price": 18999,
+    "originalPrice": 21999,
+    "rating": 4.9,
+    "reviewCount": 142,
+    "badge": "Flagship",
+    "isFeatured": true,
+    "isNewRelease": true,
+    "description": "The AERON X1 is our flagship propulsion running shoe, engineered with carbon-infused FlightStrut™ geometry and responsive AeroCell™ foam. Experience 24% higher energy return with zero added weight.",
+    "specs": {
+      "weight": "185g (Size 42)",
+      "drop": "8mm",
+      "cushioning": "Maximal Propulsion",
+      "upper": "AeroKnit 3D Monofilament",
+      "midsole": "AeroCell™ Dual-Density Nitrogen Foam",
+      "outsole": "Gripper-Vortex Rubber"
+    },
+    "techFeatures": [
+      {
+        "title": "LIGHTWEIGHT",
+        "desc": "AeroKnit mesh provides structured support at under 185 grams."
+      },
+      {
+        "title": "RESPONSIVE",
+        "desc": "Dual nitrogen-infused AeroCell foam returns energy with every stride."
+      },
+      {
+        "title": "BREATHABLE",
+        "desc": "Laser-cut ventilation channels manage airflow across heat zones."
+      },
+      {
+        "title": "HIGH TRACTION",
+        "desc": "Vortex tread pattern delivers multi-directional grip on dry or wet pavement."
+      }
+    ],
+    "defaultColor": "black",
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "images": {
+      "black": {
+        "side": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1000&q=80",
+        "front": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=1000&q=80"
+      }
+    }
+  },
+  {
+    "_id": "id_1787582813537_gkmjfjdfw",
+    "createdAt": "2026-08-24T14:46:53.537Z",
+    "updatedAt": "2026-08-24T14:46:53.537Z",
+    "id": "aeron-x2",
+    "name": "AERON X2",
+    "subtitle": "UNMATCHED AERODYNAMICS",
+    "category": "Marathon & Speed",
+    "gender": "Men",
+    "price": 19999,
+    "rating": 4.8,
+    "reviewCount": 98,
+    "badge": "New",
+    "isFeatured": true,
+    "isNewRelease": true,
+    "description": "Designed for competitive runners seeking maximum energy efficiency.",
+    "defaultColor": "white",
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": {
+      "white": {
+        "side": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=1000&q=80"
+      }
+    }
+  },
+  {
+    "_id": "id_1787582813537_oqxxp5d2w",
+    "createdAt": "2026-08-24T14:46:53.537Z",
+    "updatedAt": "2026-08-24T14:46:53.537Z",
+    "id": "aeron-street",
+    "name": "AERON Street",
+    "subtitle": "URBAN ARCHITECTURE FOR FEET",
+    "category": "Lifestyle",
+    "gender": "Unisex",
+    "price": 14999,
+    "originalPrice": 16999,
+    "rating": 4.7,
+    "reviewCount": 210,
+    "badge": "Best Seller",
+    "isFeatured": true,
+    "isNewRelease": false,
+    "description": "Architectural lines meet everyday luxury.",
+    "defaultColor": "black",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": {
+      "black": {
+        "side": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=1000&q=80"
+      }
+    }
+  },
+  {
+    "_id": "id_1787582813538_418i1u1ao",
+    "createdAt": "2026-08-24T14:46:53.538Z",
+    "updatedAt": "2026-08-24T14:46:53.538Z",
+    "id": "aeron-velocity",
+    "name": "AERON Velocity",
+    "subtitle": "LIGHTSPEED REBOUND",
+    "category": "Running",
+    "gender": "Women",
+    "price": 16999,
+    "rating": 4.9,
+    "reviewCount": 86,
+    "badge": "Trending",
+    "isFeatured": true,
+    "isNewRelease": true,
+    "description": "Ultra-lightweight sprint trainer engineered for quick cadence.",
+    "defaultColor": "silver",
+    "sizes": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "images": {
+      "silver": {
+        "side": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=1000&q=80"
+      }
+    }
+  },
+  {
+    "_id": "id_1787582813539_qw3xit32f",
+    "createdAt": "2026-08-24T14:46:53.539Z",
+    "updatedAt": "2026-08-24T14:46:53.539Z",
+    "id": "aeron-core",
+    "name": "AERON Core",
+    "subtitle": "ESSENTIAL MINIMALISM",
+    "category": "Training",
+    "gender": "Men",
+    "price": 13999,
+    "rating": 4.6,
+    "reviewCount": 115,
+    "badge": "Essential",
+    "isFeatured": false,
+    "isNewRelease": true,
+    "description": "Pure functional training stability.",
+    "defaultColor": "black",
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": {
+      "black": {
+        "side": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=1000&q=80"
+      }
+    }
+  },
+  {
+    "_id": "id_1787582813540_j9i9yc5lj",
+    "createdAt": "2026-08-24T14:46:53.540Z",
+    "updatedAt": "2026-08-24T14:46:53.540Z",
+    "id": "aeron-edge",
+    "name": "AERON Edge",
+    "subtitle": "CUT THROUGH RESISTANCE",
+    "category": "Court & Basketball",
+    "gender": "Men",
+    "price": 20999,
+    "rating": 4.9,
+    "reviewCount": 77,
+    "badge": "Pro Series",
+    "isFeatured": true,
+    "isNewRelease": true,
+    "description": "High-top tactical lockdown with targeted ankle collar support.",
+    "defaultColor": "red",
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "images": {
+      "red": {
+        "side": "https://images.unsplash.com/photo-1579338559194-a162d19bf842?auto=format&fit=crop&w=1000&q=80"
+      }
+    }
+  }
+]
